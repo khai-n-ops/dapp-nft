@@ -1,0 +1,7 @@
+node_modules
+.env
+contract/cache
+contract/artifacts
+contract/typechain-types
+dapp/dist
+dapp/node_modules

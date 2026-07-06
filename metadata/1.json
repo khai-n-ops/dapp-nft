@@ -1,0 +1,10 @@
+{
+  "name": "Workshop NFT #1",
+  "description": "NFT mẫu từ workshop DAPP mint trên Sepolia testnet.",
+  "image": "ipfs://QmPLACEHOLDER/sample.png",
+  "attributes": [
+    { "trait_type": "Workshop", "value": "DAPP Mint" },
+    { "trait_type": "Network", "value": "Sepolia" },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}
