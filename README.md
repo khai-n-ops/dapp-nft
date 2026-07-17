@@ -40,6 +40,7 @@ cd dapp
 npm install
 cp .env.example .env
 # Chỉnh VITE_CONTRACT_ADDRESS
+# Lấy VITE_WALLETCONNECT_PROJECT_ID miễn phí tại https://cloud.walletconnect.com
 npm run dev
 ```
 

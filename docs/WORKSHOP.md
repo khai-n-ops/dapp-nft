@@ -230,7 +230,38 @@ File `contract/contracts/WorkshopNFT.sol`:
 
 ## 5. Chạy DAPP Mint NFT
 
-### 5.1. Cấu hình
+### 5.1. DApp là gì?
+
+**DApp** (Decentralized Application) là ứng dụng có **frontend chạy trên trình duyệt** (React, HTML...) nhưng **logic quan trọng nằm trên blockchain** thay vì server trung tâm.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  DApp (trình duyệt)          Blockchain (Sepolia)       │
+│  ┌──────────────┐             ┌──────────────────┐      │
+│  │ Giao diện    │  gọi hàm    │ Smart Contract   │      │
+│  │ nút Mint...  │ ──────────> │ WorkshopNFT.sol  │      │
+│  └──────────────┘  qua ABI    └──────────────────┘      │
+│         │                                                │
+│         │ ký giao dịch                                     │
+│         v                                                │
+│  ┌──────────────┐                                        │
+│  │ MetaMask     │  (ví người dùng)                       │
+│  └──────────────┘                                        │
+└─────────────────────────────────────────────────────────┘
+```
+
+So với app web thông thường:
+
+| | **Web App truyền thống** | **DApp** |
+|---|---------------------------|----------|
+| Backend | Server (Node, PHP...) kiểm soát dữ liệu | Smart contract trên chain, ai cũng kiểm tra được |
+| Đăng nhập | Email / password | Kết nối ví (MetaMask) |
+| Thao tác | Gọi API server | Gửi giao dịch lên blockchain, trả phí gas |
+| Dữ liệu | Lưu database riêng | Lưu on-chain (hoặc IPFS cho file) |
+
+Trong workshop này, thư mục `dapp/` là **phần frontend** — trang web cho người dùng bấm Mint. Contract trong `contract/` là **phần backend phi tập trung** — quy định ai được mint, giá bao nhiêu, supply tối đa bao nhiêu.
+
+### 5.2. Cấu hình
 
 ```bash
 cd dapp
@@ -245,7 +276,7 @@ VITE_CONTRACT_ADDRESS=0x...địa_chỉ_contract_sau_deploy
 VITE_CHAIN_ID=11155111
 ```
 
-### 5.2. Chạy dev server
+### 5.3. Chạy dev server
 
 ```bash
 npm run dev
@@ -253,14 +284,101 @@ npm run dev
 
 Mở [http://localhost:5173](http://localhost:5173)
 
-### 5.3. Flow sử dụng DAPP
+### 5.4. Flow sử dụng DAPP
 
 1. **Connect Wallet** — MetaMask, chọn account Sepolia
 2. Kiểm tra **Supply** (đã mint / max)
 3. Bấm **Mint NFT** — confirm transaction trên MetaMask
 4. Chờ transaction confirm → hiện link Etherscan
 
-### 5.4. Thêm Sepolia vào MetaMask (nếu chưa có)
+### 5.5. ABI là gì? Tại sao DAPP vẫn cần ABI?
+
+Nhiều người thấy trong `.env` chỉ cần điền `VITE_CONTRACT_ADDRESS` nên tưởng **không cần ABI**. Thực tế **DAPP vẫn cần ABI** — ABI đã được đặt sẵn trong file `dapp/src/config.js`, không cần copy thủ công mỗi lần deploy.
+
+#### ABI (Application Binary Interface) là gì?
+
+ABI là **bản mô tả giao diện** của smart contract: tên hàm, tham số, kiểu dữ liệu, giá trị trả về, và event. Có thể hình dung ABI như **file OpenAPI/Swagger** của contract — nó cho frontend biết *cách gọi* contract, không chỉ *địa chỉ* contract.
+
+```
+Địa chỉ contract  →  "Gọi đến nhà số 0xAbC123..."
+ABI               →  "Cửa nào mở được, bấm chuông kiểu gì, ai trả lời"
+```
+
+#### Tại sao frontend cần ABI?
+
+Blockchain không tự hiểu bạn muốn gọi `mint()` hay `totalSupply()`. Khi DAPP gọi contract, **ethers.js dùng ABI để**:
+
+1. **Encode** — đóng gói tên hàm + tham số thành dữ liệu nhị phân gửi lên chain
+2. **Decode** — giải mã dữ liệu trả về thành số, chuỗi, boolean dễ đọc
+3. **Lắng nghe event** — ví dụ event `Minted` sau khi mint thành công
+
+Ví dụ trong DAPP:
+
+```javascript
+// config.js — ABI đã có sẵn
+const contract = new Contract(CONTRACT_ADDRESS, WORKSHOP_NFT_ABI, signer);
+
+await contract.mint({ value: mintPrice });     // ABI cho ethers biết cách gọi mint()
+const supply = await contract.totalSupply();   // ABI cho ethers biết cách đọc kết quả
+```
+
+Nếu **thiếu ABI** hoặc ABI **sai hàm** → DAPP không gọi được contract, dù địa chỉ đúng.
+
+#### Tại sao không cần copy ABI đầy đủ từ Hardhat?
+
+Sau khi compile, Hardhat tạo file ABI đầy đủ tại:
+
+```
+contract/artifacts/contracts/WorkshopNFT.sol/WorkshopNFT.json
+```
+
+File này chứa **mọi** hàm của contract (kể cả `withdraw`, `setBaseURI`, `_update`...). Workshop **không cần copy nguyên file** vì:
+
+| Cách | Ưu điểm | Khi nào dùng |
+|------|---------|--------------|
+| **ABI tối giản** (đang dùng) | Gọn, dễ đọc, chỉ khai báo hàm DAPP thực sự gọi | Workshop, DAPP đơn giản |
+| **ABI đầy đủ từ artifacts** | Khớp 100% với contract, dùng được mọi hàm | DAPP phức tạp, nhiều chức năng admin |
+
+ABI trong `dapp/src/config.js` chỉ liệt kê những gì DAPP cần:
+
+```javascript
+export const WORKSHOP_NFT_ABI = [
+  "function mint() payable",
+  "function totalSupply() view returns (uint256)",
+  "function maxSupply() view returns (uint256)",
+  "function mintPrice() view returns (uint256)",
+  "function balanceOf(address owner) view returns (uint256)",
+  "function tokenURI(uint256 tokenId) view returns (string)",
+  "event Minted(address indexed to, uint256 indexed tokenId)",
+];
+```
+
+Đây gọi là **Human-Readable ABI** — ethers.js v6 hỗ trợ trực tiếp, không cần JSON dài hàng trăm dòng.
+
+#### Khi nào cần cập nhật ABI?
+
+Chỉ khi bạn **sửa contract** và thêm hàm mới mà DAPP cần gọi. Ví dụ thêm `mintBatch(amount)` → bổ sung dòng tương ứng vào `WORKSHOP_NFT_ABI`.
+
+Nếu muốn dùng ABI đầy đủ từ Hardhat:
+
+```bash
+# Sau npx hardhat compile, copy field "abi" từ file JSON
+contract/artifacts/contracts/WorkshopNFT.sol/WorkshopNFT.json
+```
+
+Rồi import vào `config.js` thay cho ABI tối giản.
+
+#### Tóm lại
+
+| Thành phần | Vai trò | Đặt ở đâu |
+|------------|---------|-----------|
+| **Contract Address** | Chỉ định contract nào trên chain | `dapp/.env` |
+| **ABI** | Chỉ định gọi hàm nào, kiểu dữ liệu ra sao | `dapp/src/config.js` (có sẵn) |
+| **Signer (MetaMask)** | Ai ký và trả phí gas cho giao dịch | Kết nối qua ví |
+
+→ Deploy contract mới chỉ cần **đổi địa chỉ** trong `.env`. ABI giữ nguyên miễn là bạn không đổi interface contract.
+
+### 5.6. Thêm Sepolia vào MetaMask (nếu chưa có)
 
 
 | Field           | Value                                                        |
@@ -326,19 +444,6 @@ Trên trang NFT → menu **⋮** → **Refresh metadata** (nếu có).
 | Transaction pending lâu     | Sepolia đôi khi chậm; tăng gas hoặc chờ                               |
 | `nonce too low`             | Reset account MetaMask: Settings → Advanced → Clear activity tab data |
 
-
----
-
-## Checklist hoàn thành workshop
-
-- [ ] Tạo ít nhất 1 hình NFT
-- [ ] Upload assets + metadata lên IPFS
-- [ ] Deploy contract lên Sepolia
-- [ ] Set `baseURI` trỏ IPFS metadata
-- [ ] Verify contract Etherscan
-- [ ] Cấu hình & chạy DAPP
-- [ ] Mint thành công 1 NFT
-- [ ] Xem NFT trên testnets.opensea.io
 
 ---
 

@@ -1,0 +1,3902 @@
+[
+    {
+      "name": "CVMech #0",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/0.png",
+      "imageHash": "783455da328ba6575b351e7ef2ff2be8e082f2b460629bfc1d20b9e96bdc93bc",
+      "edition": 0,
+      "date": 1766480106937,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Aqua Dream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Mining Pickaxe"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Patterned Nomad Jacket"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Speed Runner Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Electric Smear"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #1",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/1.png",
+      "imageHash": "7ece71e8825e8af8da162b70c0d78f5e13a35ba56b93ac4fb43f5a1110014d3d",
+      "edition": 1,
+      "date": 1766480107516,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pale Lemon"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Crimson Power Gauntlet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Candy Puff Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Hypno Spiral Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Street DJ Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Playful Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #2",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/2.png",
+      "imageHash": "5a2423c61ec025e5bba61d7369f9c717c59aca620cffce5e96a8cd528a7eae83",
+      "edition": 2,
+      "date": 1766480108093,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Vanilla Cream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Ocean Buddy Dolphin"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Ember Snow Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Frost Explorer Hood"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #3",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/3.png",
+      "imageHash": "5e3813818e6431c411ea35638bd6f9de8bafe92942baa97f31199fa29bf0f292",
+      "edition": 3,
+      "date": 1766480108687,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Milk Tea"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "CVPad Rookie Jersey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Drift Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Static Glitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #4",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/4.png",
+      "imageHash": "7fd311cd49f1f09e9faa5c21dc7684b339db8b9064089a25c402d7bbafbbbb18",
+      "edition": 4,
+      "date": 1766480109246,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Frost Scout Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Classic Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Playful Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #5",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/5.png",
+      "imageHash": "12ca932ca597a303ae9ff2edf33d5b52e20f63ff1825ab495aee67d78b54d626",
+      "edition": 5,
+      "date": 1766480109850,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Beige"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Mining Pickaxe"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Midnight Chain Tee"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sleepy Scholar Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Racer Audio Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Happy Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #6",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/6.png",
+      "imageHash": "0a7cc7d020c8ded2c6759b4c0fab7271183820d3d72c1cec113a203a6307e927",
+      "edition": 6,
+      "date": 1766480110390,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Warm Sand"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Bubble Milk Tea"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Static Glitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #7",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/7.png",
+      "imageHash": "112529e6a52b5f7ab3085652c0bc182695ccff3b6ed4ecda41e9b84bc898e895",
+      "edition": 7,
+      "date": 1766480111131,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "CVPad Rookie Jersey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Street DJ Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #8",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/8.png",
+      "imageHash": "8db333f92bf1eb3b2bbccb97e28b33fe7f843e8cddb148f437a1adb5a79426aa",
+      "edition": 8,
+      "date": 1766480111772,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lavender Mist"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Storybook Bouquet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Sunny Resort Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Pink Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #9",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/9.png",
+      "imageHash": "997da6c8b44359c3cfd4506329adb5171b0db1a454b4402a92498aee337c441a",
+      "edition": 9,
+      "date": 1766480112499,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Apricot Glow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Cryo Energy Tube"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Urban Explorer Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Dual Tone Spectacles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Frost Explorer Hood"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #10",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/10.png",
+      "imageHash": "7fc3f0ad668ed956179a3eb8ecee7e67f51bc84a52b66b4cfbf1f3f69345858e",
+      "edition": 10,
+      "date": 1766480113232,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Snowfall Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Twin Flame Skis"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Neo Tech Puffer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Classic Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #11",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/11.png",
+      "imageHash": "847606d5395873880e4231c27d62f89abe132e7bf4a8415528aa545933db63a8",
+      "edition": 11,
+      "date": 1766480113902,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Twin Flame Skis"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Midnight Chain Tee"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Classic Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Playful Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #12",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/12.png",
+      "imageHash": "a1099cfefe648235f676db9f76a723c08bf3aad618c0815de505c20b1d9c0a71",
+      "edition": 12,
+      "date": 1766480114627,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Fresh Aqua"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Flamingo Pool Float"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Traveler Scarf Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aqua Pulse Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Old Town Fedora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sharp Smirk"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #13",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/13.png",
+      "imageHash": "7cbc0f198545f0411af27be87f1f001c20600b699bd4088fb44f9c59d01f1225",
+      "edition": 13,
+      "date": 1766480115328,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Camo Longboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Dual Tone Spectacles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gentle Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #14",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/14.png",
+      "imageHash": "be2e79791a49e1d95c31b303175f463ed03b3c41170c21713ba333de11eac117",
+      "edition": 14,
+      "date": 1766480116020,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Aqua Dream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Campus Day Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Ember Snow Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Wanderer Safari Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gentle Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #15",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/15.png",
+      "imageHash": "4412bb96222e35736272fdeaa6ed096ac7a6cb7078503a26d3cb05ead1315706",
+      "edition": 15,
+      "date": 1766480116789,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Twilight Snow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Lucky Sky Kite"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Nomad Trek Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Solar Edge Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #16",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/16.png",
+      "imageHash": "86836ace6c5874cb836d9109564832a6468eec4ca79fa312635123dde666b826",
+      "edition": 16,
+      "date": 1766480117396,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Campus Day Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Arctic Vision Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #17",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/17.png",
+      "imageHash": "8644c94b02483faab3ddad940821c57d0ddbd11d59130a6cf870713ae912cdc5",
+      "edition": 17,
+      "date": 1766480118033,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Vintage Varsity Layer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cozy Stripe Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Happy Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #18",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/18.png",
+      "imageHash": "0d477f514c5842ce32fadf8221eccc35a9aa760e8b14509a93ff49ab3d26873d",
+      "edition": 18,
+      "date": 1766480118624,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Spiky Phantom Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chip Tongue"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #19",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/19.png",
+      "imageHash": "d362a3e70bdb28e0e10cfc1b4d6d28db683651e0ae06204528972512439c70bd",
+      "edition": 19,
+      "date": 1766480119316,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pale Lemon"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Ocean Buddy Dolphin"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Workwear Overalls"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aqua Pulse Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Spiky Phantom Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sharp Smirk"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #20",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/20.png",
+      "imageHash": "461be1079be3d58fd729e23106db17e873d40038ceca6f0136a1ee4d0337133a",
+      "edition": 20,
+      "date": 1766480119955,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Warm Sand"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Tennis Racket"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Drift Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Minimal Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sharp Smirk"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #21",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/21.png",
+      "imageHash": "b9afae9b6e9ff6c2257d911af78871c47ac2fa2e9021bb87e39721a6c46ea5ae",
+      "edition": 21,
+      "date": 1766480120789,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Vintage Varsity Layer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Minimal Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Calm Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #22",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/22.png",
+      "imageHash": "d9295bc27fd97c6ac62485fabb923bf47436aed3a91c8017cda15b9efa359847",
+      "edition": 22,
+      "date": 1766480121523,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Snow Glow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Ocean Buddy Dolphin"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Golden Day Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Street DJ Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #23",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/23.png",
+      "imageHash": "8b8146eee480426498125d436e3a77a5c05c6b7ebd793b8890fb28dfc9b2f23b",
+      "edition": 23,
+      "date": 1766480122385,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Mining Pickaxe"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Signal Yellow Windbreaker"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sleepy Scholar Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Ghost Rider Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #24",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/24.png",
+      "imageHash": "7d402ccf2aca8ec1b38aa153a4baf5f4335d76355b96ca864509d301da43dfb3",
+      "edition": 24,
+      "date": 1766480123241,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Twin Flame Skis"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Patterned Nomad Jacket"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Shadow Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Playful Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #25",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/25.png",
+      "imageHash": "0c96c9e0dcafafbdb5f6476c8a7e16c19575d64a6c6f6bd0587ccca06d8db4a7",
+      "edition": 25,
+      "date": 1766480124221,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Snow Glow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Campus Day Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Explorer Sun Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #26",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/26.png",
+      "imageHash": "f6cfd6d2d3b2c0729380b82b23707b91febd9e1cde19c7ec813ec72c2a20508a",
+      "edition": 26,
+      "date": 1766480125055,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Sky Fade Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Artist Paint Palette"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Open Laugh"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #27",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/27.png",
+      "imageHash": "681ce0de3ec6e75e75f345a9ae62ee9a2a5455f9d56b67e8056fa904ef76d7b0",
+      "edition": 27,
+      "date": 1766480125890,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Crimson Power Gauntlet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Winter Scout Jacket"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Golden Day Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Oops"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #28",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/28.png",
+      "imageHash": "f7f239b6997c05b53a5cb4f7c939e670dcd5266dfdb3a50405b5cb4ec140eab7",
+      "edition": 28,
+      "date": 1766480126635,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Mining Pickaxe"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aqua Pulse Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Minimal Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #29",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/29.png",
+      "imageHash": "7a80ecd10d6448ad5a83316288042caf704a0d71ccf4c79b4bc8fd4ae010e567",
+      "edition": 29,
+      "date": 1766480127454,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Aqua Dream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Midnight Block Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Soft Wool Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Angry Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #30",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/30.png",
+      "imageHash": "1272cd27e96fcc09badb08d6e83c72d30523666c43674f5afd503eb26b4b6299",
+      "edition": 30,
+      "date": 1766480128018,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Fresh Aqua"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Flamingo Pool Float"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Neo Tech Puffer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Street DJ Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chip Tongue"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #31",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/31.png",
+      "imageHash": "19b166665db762c344fe8d902bb5a8d4936caa27e4ae52fbc17adef886541889",
+      "edition": 31,
+      "date": 1766480128717,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Crimson Power Gauntlet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nature Lens Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Pink Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chip Tongue"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #32",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/32.png",
+      "imageHash": "deb7a3d99430f20abdab5f2f1d81cfeacb11e7b04372ccd7f101f116cb3fc5c9",
+      "edition": 32,
+      "date": 1766480129363,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Vanilla Cream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Storybook Bouquet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Tropical Breeze Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Shadow Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #33",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/33.png",
+      "imageHash": "7678ab0f9311dc3aa3619278175f82e21ed5099ae3616c2a75df34d1c523c754",
+      "edition": 33,
+      "date": 1766480130079,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Artist Paint Palette"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Signal Yellow Windbreaker"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mint Circle Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Racer Audio Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Angry Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #34",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/34.png",
+      "imageHash": "32a84f5439210c948543ae612a8cba5e4ca40330e1e5a039400aa77e756f3794",
+      "edition": 34,
+      "date": 1766480130675,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Aqua Dream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Artist Paint Palette"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Forest Knit Polo"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Speed Runner Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Shadow Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #35",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/35.png",
+      "imageHash": "d6174439642f1ea2e1cb175d36b88b4cd49bc18c1b41a94f09c056fd2641d7b8",
+      "edition": 35,
+      "date": 1766480131234,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Storybook Bouquet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nature Lens Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #36",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/36.png",
+      "imageHash": "45601d99ed82886886583f9e8ef93bd312c75e8b7e9614eb4f1d2af5e7c5e233",
+      "edition": 36,
+      "date": 1766480131909,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Forest Knit Polo"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Soft Wool Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #37",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/37.png",
+      "imageHash": "daff3a7be695ad67927e824a9b262c912c91740106fb3e87cc2bb6e53744b496",
+      "edition": 37,
+      "date": 1766480132642,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Beige"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Urban Explorer Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Ghost Rider Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Angry Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #38",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/38.png",
+      "imageHash": "dcee829cdb2f0031126268dbe863369d77ef09ca4dafff2efebfd3d204c5a8f1",
+      "edition": 38,
+      "date": 1766480133232,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Sticker Travel Flask"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Midnight Chain Tee"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Drift Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gentle Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #39",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/39.png",
+      "imageHash": "3e171688432c7ede132b0f19c905e93251fbc3dd69900367aef50cb24855947c",
+      "edition": 39,
+      "date": 1766480133950,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Flamingo Pool Float"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Campus Day Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nature Lens Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Wanderer Safari Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #40",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/40.png",
+      "imageHash": "afbeb5b082dc602b5e37e687da377ef2e93962aeeff87b14b5c33e08c8e5664e",
+      "edition": 40,
+      "date": 1766480134538,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Ocean Buddy Dolphin"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "CVPad Rookie Jersey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Frost Scout Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Explorer Sun Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sharp Smirk"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #41",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/41.png",
+      "imageHash": "fc0b3fc1300dc4d79fba946b774196ebd962e0c96804f6f90fa854173ce38689",
+      "edition": 41,
+      "date": 1766480135129,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pale Lemon"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Forest Knit Polo"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #42",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/42.png",
+      "imageHash": "9fcd4c7d8e130b90e1977e31dd0b5f2761e5e9691cb15d248f64f90cefc68328",
+      "edition": 42,
+      "date": 1766480135721,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Campus Day Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tiny Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #43",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/43.png",
+      "imageHash": "a5a2d8195a009fa931e6300fa3efbef2c5a2a4eea6956b00702e5e10e1375030",
+      "edition": 43,
+      "date": 1766480136292,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Warm Sand"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Holiday Gift Sock"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Candy Puff Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aqua Pulse Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Racer Audio Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Oops"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #44",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/44.png",
+      "imageHash": "33225e66bd38e9630214fe676f85feca64ff4f948061c480527de3c9ac41444f",
+      "edition": 44,
+      "date": 1766480136831,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Milk Tea"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nature Lens Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Explorer Sun Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tiny Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #45",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/45.png",
+      "imageHash": "00fd804f2c499c2d48cb2831ea9d59dc1cbe4c2146665ff956f316f51cb0c4e3",
+      "edition": 45,
+      "date": 1766480137377,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Beige"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Explorer Map Scroll"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Drift Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Classic Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #46",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/46.png",
+      "imageHash": "0231e68b8198a5a652e14af89697afcb109db67e293e97cba0372f3f03be2f4f",
+      "edition": 46,
+      "date": 1766480137997,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Apricot Glow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Holiday Gift Sock"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Candy Puff Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mint Circle Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Shadow Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #47",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/47.png",
+      "imageHash": "79668f6eb033967dbb4823a9a206d610a115f9e571fd77ac093a96583d832055",
+      "edition": 47,
+      "date": 1766480138657,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Cryo Energy Tube"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Tropical Breeze Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Drift Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Side Bite"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #48",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/48.png",
+      "imageHash": "8c7dcb60d7c6662592d6e958404ec5f7065e2a791b0353b64f5950b42e74a5b1",
+      "edition": 48,
+      "date": 1766480139199,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Warm Sand"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Campus Day Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sharp Smirk"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #49",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/49.png",
+      "imageHash": "33b6dbc270bb06d35cd76bcbabe1aa0fdb79ecb9820d2a4d5ee2245722c17681",
+      "edition": 49,
+      "date": 1766480139757,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Storybook Bouquet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Nomad Trek Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Pink Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #50",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/50.png",
+      "imageHash": "3e1ca304a6ddd6e01acf9a550a0ec07810e53f57e4d7ca3125ecc54064753431",
+      "edition": 50,
+      "date": 1766480140394,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Forest Knit Polo"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Speed Runner Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cozy Stripe Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Side Bite"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #51",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/51.png",
+      "imageHash": "6b7a1ac0f91c28ad41fca1ad7738b4363d52124a9cafc6c1e212c64c8b62070c",
+      "edition": 51,
+      "date": 1766480140922,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Crimson Power Gauntlet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Soft Wool Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chip Tongue"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #52",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/52.png",
+      "imageHash": "ecebffb60bb7362904d641fb8f779d042320e081095908d98c0b9f3361d83e68",
+      "edition": 52,
+      "date": 1766480141436,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Explorer Map Scroll"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Signal Yellow Windbreaker"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Ghost Rider Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Happy Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #53",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/53.png",
+      "imageHash": "fd42b1fe64f50c79b89ba32250a3b5e9904c61cd3006ec26d5ceb00bd8e9964f",
+      "edition": 53,
+      "date": 1766480142038,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lavender Mist"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Storybook Bouquet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Nomad Trek Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Holo Bucket Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #54",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/54.png",
+      "imageHash": "57ed0362e064c6843b2978a2a02fff18f450413f055c159b0123fb4b96e2f4d5",
+      "edition": 54,
+      "date": 1766480142613,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Cryo Energy Tube"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Candy Puff Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nature Lens Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Spiky Phantom Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #55",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/55.png",
+      "imageHash": "acbbf63c458e3d654893aece55577893f72de35d76c7d278a3e1dabeba0c5083",
+      "edition": 55,
+      "date": 1766480143154,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Spiky Phantom Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Angry Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #56",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/56.png",
+      "imageHash": "bf4dd4bd77b7739fcadbaf45f21774c02226f4c24e8fd9aacecb520015a732cc",
+      "edition": 56,
+      "date": 1766480143698,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Tennis Racket"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Frost Explorer Hood"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Oops"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #57",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/57.png",
+      "imageHash": "3516ca09ddde424db0886dceb5edbdde26ff407a925a980529c6e92ebd8644af",
+      "edition": 57,
+      "date": 1766480144258,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Sky Fade Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Workwear Overalls"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Calm Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #58",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/58.png",
+      "imageHash": "5f790ef72887571da9867a64be7d877b24932e0235f14b0457b3196a676cb174",
+      "edition": 58,
+      "date": 1766480144804,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Beige"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Flamingo Pool Float"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Solar Edge Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Holo Bucket Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #59",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/59.png",
+      "imageHash": "6ec1c3f26cf8d0570bc1338666c25e93633ef1bb4d4a0fba9800c5e2938e21e3",
+      "edition": 59,
+      "date": 1766480145326,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Beige"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Traveler Scarf Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #60",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/60.png",
+      "imageHash": "43359fe55a478f11eec0829678b1d7aa2533c567b03ce8906bc65ed0c047f44e",
+      "edition": 60,
+      "date": 1766480145858,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Storybook Bouquet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Frost Scout Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #61",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/61.png",
+      "imageHash": "f6d9df956dcf0e71d6a5a5c589ee73e6ef74b07eaa36aa889a33d4110ae03cd6",
+      "edition": 61,
+      "date": 1766480146389,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Milk Tea"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Sunny Resort Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nature Lens Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Pink Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #62",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/62.png",
+      "imageHash": "b09d31cf91b054e30231bd441819c360ba99da915251a8c2771d7af8f33e5d59",
+      "edition": 62,
+      "date": 1766480146945,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pale Lemon"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Mining Pickaxe"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Signal Yellow Windbreaker"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cozy Stripe Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Classic Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #63",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/63.png",
+      "imageHash": "7523869b9e4d66490c99f710f43607790b78fa0e55dd655d2dcff5c03d67fd99",
+      "edition": 63,
+      "date": 1766480147474,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Warm Sand"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Lucky Sky Kite"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cozy Stripe Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Playful Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #64",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/64.png",
+      "imageHash": "fccf6b9a8c1b89be089ee360879aff15e7b68ee78d58e371bd3381dd4900290a",
+      "edition": 64,
+      "date": 1766480147971,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Vanilla Cream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Tennis Racket"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Classic Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #65",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/65.png",
+      "imageHash": "d408591020de553c2238c7a05eff6b51dca60175aea21cfe9baaf7665ba960f4",
+      "edition": 65,
+      "date": 1766480148483,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Vanilla Cream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Minimal Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Angry Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #66",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/66.png",
+      "imageHash": "522d5692586791c4f5176a1b1fab302a749938e0ade823bc003353abd2503df6",
+      "edition": 66,
+      "date": 1766480149063,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Takeaway Coffee Cup"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Sunny Resort Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Frost Scout Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #67",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/67.png",
+      "imageHash": "17b11a8e3a9148d3ed473657c0d3f112fef19d34920bd9c2d0360f6915128099",
+      "edition": 67,
+      "date": 1766480149595,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Baby Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Ocean Buddy Dolphin"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Chill Wave Headset Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #68",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/68.png",
+      "imageHash": "aa2cbf26bcda1910efb331a9b0111077e39c6b0b052a4ab28ba51328b43f9e20",
+      "edition": 68,
+      "date": 1766480150163,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Vanilla Cream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Cryo Energy Tube"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Shadow Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #69",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/69.png",
+      "imageHash": "ad5ec04d0642825656a7f15def8bcec01846356ea959358a48a39dfc2998a9cc",
+      "edition": 69,
+      "date": 1766480150674,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Solar Edge Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Street DJ Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #70",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/70.png",
+      "imageHash": "19a8a60b7be750edd61c43fa9a6e2be98468f70afee5c3edb6b1078ef99b5835",
+      "edition": 70,
+      "date": 1766480151210,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Explorer Sun Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Oops"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #71",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/71.png",
+      "imageHash": "f277f09b7160da91c99ec68fb31c869732eeb93eb0883e0a0bbdcedd2924126e",
+      "edition": 71,
+      "date": 1766480151879,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Midnight Block Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Ghost Rider Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Oops"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #72",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/72.png",
+      "imageHash": "c9ef940162fa239771b977387d4f0968779f1a2d833b61387ad06a498b9b5a72",
+      "edition": 72,
+      "date": 1766480152431,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Twin Flame Skis"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Vintage Varsity Layer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cozy Stripe Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tiny Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #73",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/73.png",
+      "imageHash": "7d13c2ad1e336c29380d4ee4ae1a79db864a863169f207319a767ad837c74527",
+      "edition": 73,
+      "date": 1766480152939,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Fresh Aqua"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Tennis Racket"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Midnight Chain Tee"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Solar Edge Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #74",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/74.png",
+      "imageHash": "c4c9b150b483e5b519958cf005855158129985b51da03fb3a931dfaee57a4aa6",
+      "edition": 74,
+      "date": 1766480153498,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Solar Edge Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Soft Wool Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Open Laugh"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #75",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/75.png",
+      "imageHash": "d8cfadae4be5d3ce9ea49f4e6c3e15edec8143c2c5c8e21647c4ab95dab4d549",
+      "edition": 75,
+      "date": 1766480154025,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Wanderer Safari Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Flat Line"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #76",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/76.png",
+      "imageHash": "85bc18ba1acb7daa13d79d60cd2cdaf7689dad717418fc3c5994eda478a3555c",
+      "edition": 76,
+      "date": 1766480154634,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Twilight Snow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Twin Flame Skis"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Sunny Resort Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Speed Runner Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Holo Bucket Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Soft Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #77",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/77.png",
+      "imageHash": "146b70251caf939fc958fa826933be95c1b2da466c0dfbde7e34c2b36d91cf58",
+      "edition": 77,
+      "date": 1766480155175,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Nomad Trek Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aqua Pulse Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Spiky Phantom Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Static Glitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #78",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/78.png",
+      "imageHash": "5425081e6a0ab6a5a80dd64f7b6980aa878771892ae90336231fe6673990388f",
+      "edition": 78,
+      "date": 1766480155710,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Milk Tea"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Explorer Map Scroll"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Neo Tech Puffer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Heartbreaker Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #79",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/79.png",
+      "imageHash": "c0e736c9b37b10c923a1dee21fdde9ea90584b7a113657acb9853bbc12b9acb6",
+      "edition": 79,
+      "date": 1766480156246,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Flamingo Pool Float"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Noir Formal Suit"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #80",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/80.png",
+      "imageHash": "56b28225af925992e6b9edbf43f23db4a8b56ad5407329d9a9a6e1b8bc84d75f",
+      "edition": 80,
+      "date": 1766480156802,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Takeaway Coffee Cup"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Signal Yellow Windbreaker"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aqua Pulse Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Retro Pop Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble Chew"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #81",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/81.png",
+      "imageHash": "4f379173d776b36a607b149762305832e4ea9393da51de92697be5584a586b6d",
+      "edition": 81,
+      "date": 1766480157424,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Peach Snowfall"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Crimson Power Gauntlet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Nomad Trek Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Arctic Vision Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Holo Bucket Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #82",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/82.png",
+      "imageHash": "491ed7beb245431ac899950fd4204359d86a8e214179f2ff9251cb705993b1fc",
+      "edition": 82,
+      "date": 1766480157941,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Neo Tech Puffer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mint Circle Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Oops"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #83",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/83.png",
+      "imageHash": "c3f7ef908af8257ae7ce2a037b29862334dba4cad37b00ea4b5e5d377b7bc983",
+      "edition": 83,
+      "date": 1766480158515,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Milk Tea"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Twin Flame Skis"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Tropical Breeze Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Casual Beret"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gentle Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #84",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/84.png",
+      "imageHash": "ef27aa93766d96955439446d21d1eb6de3cf8f81f6fb15c0f39f24fd83c673b2",
+      "edition": 84,
+      "date": 1766480159034,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #85",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/85.png",
+      "imageHash": "befb0182b8d33034c6eea4ab1c61d584f37a538962c92956d7ceeab380984b37",
+      "edition": 85,
+      "date": 1766480159591,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Crimson Power Gauntlet"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Vintage Varsity Layer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Speed Runner Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Static Glitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #86",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/86.png",
+      "imageHash": "5e7dd454b0e4fbfe597bcdc2d1e07fe747b72132849577fa5f24da040c092b91",
+      "edition": 86,
+      "date": 1766480160144,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Sky Fade Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Lucky Sky Kite"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lava Swirl Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Wanderer Safari Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Electric Smear"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #87",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/87.png",
+      "imageHash": "576d349e763b77063eae2e1c5cc149a3b0db4ad191bb25d477cc70477cfac783",
+      "edition": 87,
+      "date": 1766480160729,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Flamingo Pool Float"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Traveler Scarf Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Racer Audio Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Angry Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #88",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/88.png",
+      "imageHash": "a029dccb015aa77b564de8d451417e64cd4c5fdb360a4169fb9648e3e4896bdb",
+      "edition": 88,
+      "date": 1766480161277,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Aqua Dream"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Lucky Sky Kite"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "CVPad Rookie Jersey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Explorer Sun Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #89",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/89.png",
+      "imageHash": "17f7cad094854c719dc07e75c02cfd704e8aab99a3c2af740e54ed88287c3dee",
+      "edition": 89,
+      "date": 1766480161945,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Mint Foam"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Mining Pickaxe"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Nomad Trek Backpack"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Ghost Rider Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Calm Curve"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #90",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/90.png",
+      "imageHash": "3ef84abfa6a3ad9a028ddab3212ca67c0fa152b67f53c7e9865164bc131975d2",
+      "edition": 90,
+      "date": 1766480162520,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Apricot Glow"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Golden Essence Potion"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Tropical Breeze Shirt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Wanderer Safari Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Static Glitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #91",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/91.png",
+      "imageHash": "2ab73610282016143de75d728a96d9ddd3182d7fdae01b31b694773fd45935f0",
+      "edition": 91,
+      "date": 1766480163116,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Fresh Aqua"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Neon Tennis Racket"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Neo Tech Puffer"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Ember Snow Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Happy Mouth"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #92",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/92.png",
+      "imageHash": "005c2233ecf4e09c9cfa3829744cb9e01fc9056f6b1360d0f19562fc832b8f74",
+      "edition": 92,
+      "date": 1766480163698,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blush Pink"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Holiday Gift Sock"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Rose Tint Round Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Minimal Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Chip Tongue"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #93",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/93.png",
+      "imageHash": "6f65ac0c024506c5eabc046a0715466ff261d0b73ca3544cdce551f56a25ad12",
+      "edition": 93,
+      "date": 1766480164282,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Cotton Candy"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Street Basketball"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Amber Retro Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Chill Wave Headset Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Classic Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #94",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/94.png",
+      "imageHash": "af6fd4aa5d110ebb66298b35fecaa295b39bff79641fcd397fbd67c5a131becf",
+      "edition": 94,
+      "date": 1766480164855,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Baby Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Camo Longboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Frost Scout Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Winter Knit Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #95",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/95.png",
+      "imageHash": "ec4b286b99c1ceb00981e1b2935c1c693a9ca4f2c2df2430d314f7e8ba2d486a",
+      "edition": 95,
+      "date": 1766480165693,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Sky Fade Blue"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Sticker Travel Flask"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Candy Puff Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Golden Day Shades"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tiny Smile"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #96",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/96.png",
+      "imageHash": "ed7e6399d12d329789eeb178421109aed63a00203db41e08a09c4d7e4d9ecf00",
+      "edition": 96,
+      "date": 1766480166583,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Carrot Bunny Plush"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Street Ranger Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Prism Wave Sunglasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Noir Gentleman Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Loading"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #97",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/97.png",
+      "imageHash": "ea974ba33efc9b7607a31a327790426254d1b99aeeacf763a8e6bf04ba08b8f4",
+      "edition": 97,
+      "date": 1766480167331,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Light Butter"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Midnight Snowboard"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Alpine Utility Vest"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Arctic Vision Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Ghost Rider Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #98",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/98.png",
+      "imageHash": "1d01d28200660f49197c93a8e7dcc9c9f748ed757f044b54c9733d92c1856e9f",
+      "edition": 98,
+      "date": 1766480168002,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Desert Wave"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Lucky Sky Kite"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Workwear Overalls"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "CVPad Pink Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Nervous Twitch"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    },
+    {
+      "name": "CVMech #99",
+      "description": "CVMech is more than an NFT, it is a long-term access key that unlocks exclusive benefits and priority access within the CVPad ecosystem for early contributors.",
+      "image": "https://blue-elderly-earthworm-472.mypinata.cloud/ipfs/bafybeibooq4rde6gojafqlxe3aalin4yndbmvzp4dbyct7lomjadmmxd3y/99.png",
+      "imageHash": "3476f44f76890885a530a1088bcab5e55086e824124ab92823c783d62d2999db",
+      "edition": 99,
+      "date": 1766480168551,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Fresh Aqua"
+        },
+        {
+          "trait_type": "Accessories",
+          "value": "Holiday Gift Sock"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Softcore Autumn Coat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Star Gazer Glasses"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Frost Explorer Hood"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Playful Grin"
+        }
+      ],
+      "compiler": "CVPad Art Engine"
+    }
+  ]
